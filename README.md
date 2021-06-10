@@ -11,7 +11,11 @@ Imagine you are playing a game while communicating with your friends on Discord.
 
 ### 4. How to use
 + If you input 'movie' in Korean into the chatbot called 'movie lover', you can find out the titles of the movies currently playing at cgv in Bukpohang.
+<img width="286" alt="스크린샷 2021-06-10 오전 11 40 08" src="https://user-images.githubusercontent.com/70479118/121456180-a00d1000-c9e0-11eb-9fba-e3531793655f.png">
+
 + If you re-enter the title of the movie you want to see into the chatbot, you can see the number of seats remaining and the screening schedule.
+<img width="856" alt="스크린샷 2021-06-10 오전 11 41 16" src="https://user-images.githubusercontent.com/70479118/121456274-c632b000-c9e0-11eb-91da-135e185a1fdd.png">
+
 
 ### 5. Caution
 + The 56th line of the final.py file is using a meaningless token value because there is a risk of hacking. (The token running in the actual Raspberry Pi is set correctly.)
