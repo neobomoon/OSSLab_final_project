@@ -1,20 +1,24 @@
 # project name : discord chat bot
 
-### 1. video link
+### 1. Video link
 ㅁㅇㄹㄴㅁㄴㅇㄹ
 
-### 2. 어떻게 해서 시작하게 되었나?
-디스코드는 20대 남성 사이에서 가장 많이 사용되고 있는 대화형 플랫폼 중 하나이다. 또한 또래 친구들끼리 게임을 하면서 디스코드를 통해 많은 대화를 하게 되는데, 이때 누군가가 영화를 보러 가자는 얘기가 나오면 영화관 사이트에 들어가 상영 시간표를 확인하고 약속을 잡아야 한다. 평소에 이런 번거러운 작업을 어떻게 하면 줄일 수 있을까라는 생각을 가지고 있었는데, 마침 OSSLab의 final프로젝트의 주제를 정해야 해서 이것을 주제로 삼게 되었다.
+### 2. How did I get started?
+Discord is one of the most used interactive platforms among men in their 20s. Also, while playing games with friends of the same age, we have many conversations through Discord. At this time, if someone wants to go see a movie, we have to go to the cinema site, check the screening schedule, and make an appointment. While I was always thinking about how to reduce such cumbersome work, I had to decide on a topic for the final project of OSSLab, so I decided to use this as a topic.
 
-### 3. 얼마나 유용한가, 누가 사용하는가
-친구들과 디스코드로 소통을 하면서 게임을 하고 있다 생각해보자. 하지만 게임을 너무 많이한 탓에 게임에 대한 흥미가 떨어졌다. 이때 누군가 재미있는 영화를 보자는 의견을 냈고, 그때 디스코드 챗봇을 통해 영화의 정보, 시간표, 그리고 남은 좌석의 정보까지 바로 얻을 수 있다 생각해보자. 이 얼마나 편리한 기능인가.
+### 3. How useful it is, who uses it
+Imagine you are playing a game while communicating with your friends on Discord. However, I lost interest in the game because I played it too much. At this time, someone made an opinion to watch an interesting movie, and then imagine that you can get movie information, timetable, and information on the remaining seats right away through the Discord chatbot. What a convenient feature this is.
 
-### 4. 사용법
-+ 'movie lover'이라는 챗봇에 한국어로 '영화'를 입력하면, 현재 북포항 cgv에서 상영하고 있는 영화 제목들을 알 수 있다.
-+ 보고싶은 영화 제목을 챗봇에 다시 입력하면, 현재 남은 좌석 수와 상영 시간표를 알 수 있다.
+### 4. How to use
++ If you input 'movie' in Korean into the chatbot called 'movie lover', you can find out the titles of the movies currently playing at cgv in Bukpohang.
++ If you re-enter the title of the movie you want to see into the chatbot, you can see the number of seats remaining and the screening schedule.
 
-### 5. 주의사항
-+ 
+### 5. Caution
++ The 56th line of the final.py file is using a meaningless token value because there is a risk of hacking. (The token running in the actual Raspberry Pi is set correctly.)
 
-### 6. 개선사항
-#### 질문있으면 이메일로
+### 6. Improvements
++ In order to provide more diverse information by receiving input by region.
++ To make it more convenient by providing a url address where you can make a reservation.
++ To be able to provide a brief synopsis and rating of the movie as well.
+
+#### If you have any questions, please send an email to 21600635@handong.edu.
