@@ -19,6 +19,8 @@ Imagine you are playing a game while communicating with your friends on Discord.
 
 ### 5. Caution
 + The 56th line of the final.py file is using a meaningless token value because there is a risk of hacking. (The token running in the actual Raspberry Pi is set correctly.)
+<img width="566" alt="스크린샷 2021-06-10 오전 11 41 52" src="https://user-images.githubusercontent.com/70479118/121456338-df3b6100-c9e0-11eb-9bef-721e8a34f079.png">
+
 
 ### 6. Improvements
 + In order to provide more diverse information by receiving input by region.
