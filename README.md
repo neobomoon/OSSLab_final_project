@@ -1,7 +1,7 @@
 # project name : discord chat bot
 
 ### 1. Video link
-not yet
+https://youtu.be/eI6JuKuJd18
 
 ### 2. How did I get started?
 Discord is one of the most used interactive platforms among men in their 20s. Also, while playing games with friends of the same age, we have many conversations through Discord. At this time, if someone wants to go see a movie, we have to go to the cinema site, check the screening schedule, and make an appointment. While I was always thinking about how to reduce such cumbersome work, I had to decide on a topic for the final project of OSSLab, so I decided to use this as a topic.
